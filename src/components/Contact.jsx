@@ -77,7 +77,7 @@ const Contact = () => {
             </span>
           </h2>
           <p className="text-lg text-[#2B2B2B]/70 max-w-2xl mx-auto">
-            Let's discuss your interior design project or collaboration opportunities
+            Let's discuss your graphic design project or collaboration opportunities
           </p>
         </motion.div>
 

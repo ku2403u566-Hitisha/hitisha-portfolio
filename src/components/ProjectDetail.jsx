@@ -301,7 +301,7 @@ const ProjectDetail = () => {
               >
                 <h4 className="text-lg font-semibold text-[#F8F6F2] mb-3">Interested in this style?</h4>
                 <p className="text-[#F8F6F2]/80 text-sm mb-4">
-                  Let's discuss how we can bring this aesthetic to your space
+                  Let's discuss how we can bring this aesthetic to your brand
                 </p>
                 <Link
                   to="/#contact"
